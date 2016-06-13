@@ -1,8 +1,8 @@
-﻿using System.Web.Http;
-using System.Web.Http.Description;
-using MailChimp.Helper;
+﻿using MailChimp.Helper;
 using MailChimp.MailingModule.Web.Services;
-using VirtoCommerce.Platform.Core.Security;
+using System.Web.Http;
+using System.Web.Http.Description;
+using VirtoCommerce.Platform.Core.Web.Security;
 
 namespace MailChimp.MailingModule.Web.Controllers.Api
 {
